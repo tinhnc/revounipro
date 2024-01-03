@@ -1,0 +1,18 @@
+-B1: Cài đặt Revo Uninstaller Pro từ trang chủ(https://www.revouninstaller.com/products/revo-uninstaller-pro) 
+hoặc từ file setup mình để sẵn. Nếu đã cài rồi thì đóng hết cửa sổ chương trình.
+
+-B2: Mở đến đường dẫn "C:\ProgramData\VS Revo Group\Revo Uninstaller Pro" xoá file .lic cũ
+Lưu ý: Thư mục ProgramData bị ẩn nên để mở được bạn copy đường dẫn trên rồi dán vào thanh địa chỉ File Explorer 
+hoặc chạy file .bat "Mo thu muc PropramData" mình làm sẵn kèm theo.
+
+-B3: Copy file revouninstallerpro4.lic bỏ vào rồi mở lên tận hưởng.
+
+
+
+
+
+
+Bonus: Để đổi tên đăng ký bạn đóng hết cửa sổ chương trình, rồi hướng đến đường dẫn này trong registry editor
+Computer\HKEY_CURRENT_USER\SOFTWARE\VS Revo Group\Revo Uninstaller Pro\General
+Click chuột vào khoá RegUN đổi Value data thành tên của bạn, rồi mở chương trình xem thành quả.
+
